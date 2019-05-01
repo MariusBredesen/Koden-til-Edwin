@@ -1,0 +1,83 @@
+body
+  {
+    display: grid;
+    grid-template-columns: auto 620px 180px auto;
+    grid-template-rows: 80px auto;
+  }
+
+header
+  {
+    grid-column: 2/3;
+    grid-row: 1/1;
+  }
+
+nav
+  {
+    grid-column: 3/3;
+    grid-row: 2/2;
+  }
+
+nav li
+  { 
+    list-style-type: none;                               /* fjerner bullets fra meny */
+  }
+
+nav a
+  {
+    background-color: #eaeded;                          /* lay out ikke-aktive menyvalg */
+    color: black;                                       
+    display: block;                                     
+    padding: 10px;                                      
+    text-decoration: none;                              
+  }
+nav a:hover
+  {
+    background-color: #707b7c;                          /* mouse-over grå */
+  }
+
+nav a.active
+  {
+    background-color: #196f3d;                          /* gjør aktiv menyvalg grøn */
+    color: white;                                       /* gjør tekst aktiv menyvalg hvit */
+  }
+
+body>section
+  {
+     grid-row: 2/2;
+     grid-column: 2/2;
+  }
+
+body>section>section
+  {
+    display: none;
+  }
+
+body>section>section.active
+  {
+    display: block;
+  }
+
+tr:nth-child(even)
+  {
+    background-color: #eaeded;
+  }
+
+td  
+  {
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+  }
+
+div input
+  {
+    float: right;
+  }
+
+button, input
+  { 
+    width: 8em;
+  }
+
+
+
+

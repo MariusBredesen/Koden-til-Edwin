@@ -1,0 +1,326 @@
+[
+  {
+    "givenName": "Martin Frøyna",
+    "lastName": "Alfsen",
+    "Email": "martialf@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Tom Arnold",
+    "lastName": "Bendiksen",
+    "Email": "tomaben@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Sarah Victoria",
+    "lastName": "Berg",
+    "Email": "sarahvb@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Martin",
+    "lastName": "Bergstrøm",
+    "Email": "mabergst@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Marius",
+    "lastName": "Bækken",
+    "Email": "mariubae@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Frode",
+    "lastName": "Dahl",
+    "Email": "froddahl@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Elvedin",
+    "lastName": "Dizdarevic",
+    "Email": "elvedin.dizdarevic@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Mathias Østvold",
+    "lastName": "Ek",
+    "Email": "mathiaoe@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Jon Sivert",
+    "lastName": "Engeland",
+    "Email": "jonseng@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Markus",
+    "lastName": "Erdal",
+    "Email": "markuser@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Jørgen Boldermo",
+    "lastName": "Eriksen",
+    "Email": "jorgberi@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Aase Vilde",
+    "lastName": "Follinglo",
+    "Email": "aasevf@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Torstein",
+    "lastName": "Frogner",
+    "Email": "torstfr@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Marianne",
+    "lastName": "Glimsdal",
+    "Email": "mariagli@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Vetle Kruse",
+    "lastName": "Gundersen",
+    "Email": "vetlekg@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Edwin",
+    "lastName": "Helder",
+    "Email": "edwinhe@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Maren Solem",
+    "lastName": "Helgemo",
+    "Email": "marenshe@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Elisabet Therese Bruce",
+    "lastName": "Høyer",
+    "Email": "ethoyer@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Patrick-Gino",
+    "lastName": "Jarzabek",
+    "Email": "patricgj@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Embla Tyholt",
+    "lastName": "Johansen",
+    "Email": "emblatj@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Isabell Helen",
+    "lastName": "Johnsen",
+    "Email": "isabelhj@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Grethe Alina",
+    "lastName": "Krogstad",
+    "Email": "gretheak@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Eirik",
+    "lastName": "Kvistad",
+    "Email": "eirkvi@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Sigurd Sæther",
+    "lastName": "Lande",
+    "Email": "sigursla@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Lars Erik",
+    "lastName": "Lunde",
+    "Email": "larselun@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Wisarut",
+    "lastName": "Mortensen",
+    "Email": "wisarutm@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Lars",
+    "lastName": "Møllerhagen",
+    "Email": "larmol@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Phiroz Alee",
+    "lastName": "Nazari",
+    "Email": "phirozan@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Andre",
+    "lastName": "Neubauer",
+    "Email": "andreneu@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Nico",
+    "lastName": "Neubauer",
+    "Email": "nicon@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Thomas",
+    "lastName": "Nielsen",
+    "Email": "thomanie@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Bjørnar",
+    "lastName": "Nilsen",
+    "Email": "bjoni@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Stian Hjulstad",
+    "lastName": "Nilsen",
+    "Email": "stianhn@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Thea Marie",
+    "lastName": "Nilsen",
+    "Email": "theani@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Alf Magnus Graathen",
+    "lastName": "Nohr",
+    "Email": "amnohr@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Serena",
+    "lastName": "Parisi",
+    "Email": "serenapa@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Vilde",
+    "lastName": "Pedersen",
+    "Email": "vildep@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Lars Ivar",
+    "lastName": "Ramberg",
+    "Email": "larsira@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Mari Stalheim",
+    "lastName": "Rogne",
+    "Email": "marisr@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Karen Bruun",
+    "lastName": "Rønholt",
+    "Email": "karenbro@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Markus Jørgensen",
+    "lastName": "Samuelsen",
+    "Email": "markusjs@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Ulrik Eide",
+    "lastName": "Sletten",
+    "Email": "ulrikesl@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Kristina",
+    "lastName": "Sola",
+    "Email": "krsola@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Lisa Marie Rath",
+    "lastName": "Solheim",
+    "Email": "lmsolhei@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Simen Andre",
+    "lastName": "Stenbak",
+    "Email": "simenast@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Marcus Leikfoss",
+    "lastName": "Swensen",
+    "Email": "marcusls@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Wilhelm",
+    "lastName": "Teksum",
+    "Email": "wilhelt@stud.ntnu.no",
+    "studyProgramme": "ÅRWEB"
+  },
+  {
+    "givenName": "Martine Løvaas",
+    "lastName": "Thune",
+    "Email": "martinlt@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Ande",
+    "lastName": "Trosten",
+    "Email": "andetr@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  },
+  {
+    "givenName": "Wimonrat",
+    "lastName": "Vognild",
+    "Email": "wimonrav@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Vetle Karsten",
+    "lastName": "Wosnitza",
+    "Email": "vetlekw@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Rina",
+    "lastName": "Yamada",
+    "Email": "rinay@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Thomas Lian",
+    "lastName": "Ødegaard",
+    "Email": "thomalod@stud.ntnu.no",
+    "studyProgramme": "BWU"
+  },
+  {
+    "givenName": "Ole Kristian",
+    "lastName": "Ødegård",
+    "Email": "olekod@stud.ntnu.no",
+    "studyProgramme": "BGEO"
+  }
+]

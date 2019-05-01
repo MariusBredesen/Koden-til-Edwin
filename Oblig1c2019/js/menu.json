@@ -1,0 +1,17 @@
+[
+  {
+    "id": "main_text",
+    "html": "Om prosjektet",
+    "js": "js/main_text.js"
+  },
+  {
+    "id": "Participants",
+    "html": "Klasseliste",
+    "js": "js/participants.js"
+  },
+  {
+    "id": "Fuelusage",
+    "html": "Drivstofforbruk",
+    "js": "js/fuel_usage.js"
+  }
+]

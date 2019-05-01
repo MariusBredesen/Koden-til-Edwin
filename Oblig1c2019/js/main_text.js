@@ -1,0 +1,3 @@
+﻿let text = document.getElementById('main_text');
+  document.createElement('P');
+    text.innerHTML = "<b>INFORMASJON OM OPPGAVEN</b><br><br>Oppgaven handler om å lage en websiden hvor alt skjer uten å laste inn ny HTML. All informasjon ligger i index-filen.<br><br> Siden består av tre elementer, en side som forteller litt om oppgaven -Om prosjektet-, en side som viser en liste over alle som tar IMT1441 -Klasseliste- og en side som lar deg beregne drivstofforbuk for en bil -Drivstofforbruk-.<br><br>Klasseliste viser alle deltakere i alfabetisk rekkefølge med for- og etternavn, epost-adresse og studieretning.<br><br>Drivstofforbruk beregner antall kilometer som kan kjøres per liter drivstoff. Beklager men i Nederland regnes det ikke med l/mil men med km/l.";

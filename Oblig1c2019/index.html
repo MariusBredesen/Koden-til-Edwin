@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/style.css">
+  <title>IMT1441-Oblig1</title>
+</head>
+
+<body>
+  <nav>
+    <ul></ul>
+  </nav>
+    <header>
+      <h1>Programmering for web - oppgave 1</h1>
+    </header>
+      <section>
+        <section class="active" id="main_text">
+          <p></p>                                           <!-- Laster inn bygger opp tekst fra js-->
+        </section>
+        <section id="Participants">
+          <h4>Deltakerliste for IMT 1441</h4>             
+          <table id="Participant"></table>                  <!-- Liste hentes fra json og bygges med participants.js -->
+        </section>
+          <section id="Fuelusage">
+            <section>
+              <form id="Drivstoff">
+                <h4>Kalkulator som beregner antall kilometer per liter drivstoff og pris per kilometer.<br>I tillegg beregner den total antall kjørte kilometer og gjennomsnittsfrobruket per mil.</h4>                                    <!-- funskjon hentes fra js -->
+                <p>Legg inn:</p>
+                <div>
+                  <label for="distanse"> antall kilometer:        </label>           <!-- inputfeltene -->
+                  <input type="number" name="number1" >              
+                </div>
+                <br>
+                <div>
+                  <label for="drivstoff"> antall liter drivstoff: </label>
+                  <input type="number" name="number2" >
+                </div>
+                <br>
+                <div>
+                  <label for="pris"> pris per liter drivstoff:    </label>
+                  <input type="number" name="number3" >
+                </div>
+                <br>
+                <output name="textOutput"></output>                                  <!-- tekstoutput -->
+                <br><br>
+                <textarea id="textAreaOutput" rows="5" cols="80"></textarea>         <!-- output tekstfelt -->
+                <br>
+                <button id="fuelcalc" type="button">Beregn</button>                                <!-- aktiverer beregning -->
+                <input type = reset>                                                 <!-- tømmer alle inputfelt -->                                                  </form>
+            </section>
+          </section>
+  <script src="js/main_text.js"></script>
+  <script src="js/menu.js"></script>
+  <script src="js/participants.js"></script>
+  <script src="js/fuel_usage.js"></script>
+</body>
+
+</html>
